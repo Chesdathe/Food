@@ -1,0 +1,148 @@
+.food {
+  background: #237479;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 28px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.food .fast-food {
+  margin-bottom: 23px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inika';
+  font-weight: 400;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.food .menu {
+  margin: 86px 65.8px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inika';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.food .best-food {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inika';
+  font-weight: 400;
+  font-size: 36px;
+  color: #FFFFFF;
+}
+.food .drink {
+  margin-top: 89px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inika';
+  font-weight: 400;
+  font-size: 36px;
+  color: #FFFFFF;
+}
+.food .the-most-delicious-fast-food-ever {
+  margin: 0 31.9px 30px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Irish Grover';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.food .image-1 {
+  background: url('../assets/images/image1.png') 50% / cover no-repeat;
+  width: 247px;
+  height: 229px;
+}
+.food .image-2 {
+  background: url('../assets/images/image2.png') 50% / cover no-repeat;
+  margin: 23px 0;
+  width: 275px;
+  height: 183px;
+}
+.food .image-3 {
+  background: url('../assets/images/image3.png') 50% / cover no-repeat;
+  margin: 23px 0 38px 0;
+  width: 300px;
+  height: 168px;
+}
+.food .fast-food-the-epitome-of-convenience-and-indulgence-from-sizzling-burgers-to-crispy-fries-and-mouthwatering-pizzas-its-the-quick-fix-for-hunger-cravings-but-beneath-its-tempting-allure-lies-adebate-of-health-versus-taste-as-these-savory-delights-often-come-with-aside-of-guilt-yet-in-aworld-where-time-is-of-the-essence-fast-food-remains-ago-to-choice-offering-asymphony-of-flavors-in-aswift-satisfying-package-its-the-guilty-pleasure-we-cant-resist-promising-instant-gratification-with-every-bite {
+  margin: 0 25px 88px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inika';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.food .about-create-by-chesda {
+  margin-left: 22.7px;
+  overflow-wrap: break-word;
+  font-family: 'Inika';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.food .welcome-to-mccomeders-where-innovation-meets-dedication-were-committed-to-crafting-tailored-solutions-and-exceeding-expectations-join-us-as-we-shape-the-future-together {
+  margin-bottom: 54px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inika';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.food .ellipse-1 {
+  border-radius: 65px;
+  background: url('../assets/images/ellipse1.png') 50% / cover no-repeat;
+  margin-top: 19px;
+  width: 130px;
+  height: 130px;
+}
+.food .container {
+  margin-bottom: 13px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food .container-1 {
+  margin: 0 128px 5px 128px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  column-gap: 143px;
+  width: 1108px;
+  box-sizing: border-box;
+}
+.food .container-2 {
+  margin: 0 20.1px 3px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.food .container-3 {
+  border-radius: 40px;
+  background: #149CA3;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 69.4px 57px 61px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.food .container-4 {
+  border-radius: 30px;
+  background: #149CA3;
+  position: relative;
+  margin: 0 111px 46px 110px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 0 31px 39px;
+  width: 1219px;
+  box-sizing: border-box;
+}
